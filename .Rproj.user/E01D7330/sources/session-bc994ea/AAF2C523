@@ -1,0 +1,26 @@
+{
+    "id": "AAF2C523",
+    "path": "~/Desktop/diagnostics/scripts/assumptions_walkthrough_ex.R",
+    "project_path": "scripts/assumptions_walkthrough_ex.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1677519075081.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "138,0",
+        "scrollLine": "124"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1677516590,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1677520334695,
+    "read_only": false,
+    "read_only_alternatives": []
+}
